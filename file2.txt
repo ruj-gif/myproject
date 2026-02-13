@@ -1,1 +1,4 @@
-Content from branch1
+<<<<<<< HEAD
+=======
+
+>>>>>>> branch2
